@@ -1,2 +1,4 @@
-# coinharbour.github.io
-Coin Harbour Public Static Content
+﻿﻿# coinharbour.github.io
+
+Public web resources for counharbour.com.au
+
