@@ -2,6 +2,11 @@
    "news": [
       
       {
+         "id": "listing_bico_lrc_qnt.html",
+         "title": "New listings for Biconomy (BICO), Loopring (LRC)& Quant (QNT)",
+         "created_at": "2022-07-16T11:42:10+01:00"
+      },
+      {
          "id": "listing_ftm_nmr.html",
          "title": "New Listings for Numeraire (NMR) & Fantom (FTM)",
          "created_at": "2022-07-10T11:15:10+01:00"
