@@ -1,10 +1,15 @@
 {
    "news": [
-      
+
+      {
+         "id": "ethereum_2_pos.html",
+         "title": "Ethereum Merge Projected for September",
+         "created_at": "2022-07-19T12:55:10+01:00"
+      },
       {
          "id": "listing_snx_uma_yfi.html",
          "title": "New Listings for Yearn.Finance (YFI), Synthetix (SNX) & Universal Market Access (UMA)",
-         "created_at": "2022-07-19T11:15:10+01:00"
+         "created_at": "2022-07-18T11:15:10+01:00"
       },
       {
          "id": "listing_bico_lrc_qnt.html",
